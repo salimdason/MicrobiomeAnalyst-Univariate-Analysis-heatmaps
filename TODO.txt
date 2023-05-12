@@ -1,0 +1,6 @@
+
+
+
+Edit the ad_comparison.py script to work for the newly generated pair of files to compare between AD samples.
+
+Need to refactor the code and make a few changes to reflect the new data structure
