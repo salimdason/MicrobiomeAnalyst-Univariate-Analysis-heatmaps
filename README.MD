@@ -56,5 +56,10 @@ Once this is done, run:
 
 $ python create_heatmap.py
 
+# Sample Output
+
+![image](https://github.com/salimdason/MicrobiomeAnalyst-Univariate-Analysis-heatmaps/assets/71772022/bd366623-b37b-4e52-aa6a-64863ed630ba)
+
+
 
 
